@@ -17,8 +17,9 @@
 ![](https://img.freepik.com/free-vector/people-using-technological-devices_23-2148143040.jpg?w=826&t=st=1693666298~exp=1693666898~hmac=ffc45cdafc5645173fa056ce1750d27634cf9ab5edff0ccfef7d0cdebdc226e2)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
-- **I share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UC7T0KGR3PnopaAxczvSAqHw)** 
+- **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.sc in Criminology and Security Studies.**
+- **I share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UC7T0KGR3PnopaAxczvSAqHw)**
+- **I connect the world to Abuja businesses and offer ICT tech solutions and insights on my [Whatsapp community](+2348163126587)** 
 - **`Fun fact about me`**  **i love pets** 😅  😅
 - **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
 - **For inquiries or opportunities, please send me an** **[e-mail](anthonypaulakpan@gmail.com)** 
