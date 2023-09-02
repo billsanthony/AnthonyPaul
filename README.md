@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+billsanthony%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
-## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+## <b>`Capital Connect Abuja`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
