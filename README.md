@@ -7,9 +7,9 @@
 ## <b>`Capital Connect Abuja`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
-<a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
-<a href="https://instagram.com/_billsanthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_billsanthony" height="30" width="40" /></a>
-<a href="https://twitter.com/billsanthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billsanthony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthony paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony paul" height="30" width="40" /></a>
+<a href="https://instagram.com/_bills_de_creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bills_de_creator" height="30" width="40" /></a>
+<a href="https://twitter.com/billsanthony2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billsanthony2" height="30" width="40" /></a>
 <a href="https://youtube.com/billsanthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="billsanthony" height="30" width="40" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
 - **I share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UC7T0KGR3PnopaAxczvSAqHw)** 
-- **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
+- **`Fun fact about me`**  **i love pets** 😅  😅
 - **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
 - **For inquiries or opportunities, please send me an** **[e-mail](anthonypaulakpan@gmail.com)** 
 
