@@ -7,10 +7,11 @@
 ## <b>`Capital Connect Abuja`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
-<a href="https://linkedin.com/in/anthony paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony paul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/anthony-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-paul" height="30" width="40" /></a>
 <a href="https://instagram.com/_bills_de_creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bills_de_creator" height="30" width="40" /></a>
 <a href="https://twitter.com/billsanthony2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billsanthony2" height="30" width="40" /></a>
 <a href="https://youtube.com/billsanthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="billsanthony" height="30" width="40" /></a>
+<a href="https://instagram.com/in/anthony-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-paul" height="30" width="40" /></a>
 </p>
 
 #
