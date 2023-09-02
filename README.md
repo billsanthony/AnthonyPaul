@@ -14,7 +14,7 @@
 </p>
 
 #
-![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
+![](https://img.freepik.com/premium-photo/3d-guy-standing-generative-ai_384720-2632.jpg?w=826)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
