@@ -14,7 +14,7 @@
 </p>
 
 #
-![](https://img.freepik.com/free-photo/blithesome-student-green-t-shirt-posing-with-laptop-indoor-photo-amazed-male-freelancer-isolated_197531-20164.jpg)
+![](https://img.freepik.com/free-vector/people-using-technological-devices_23-2148143040.jpg?w=826&t=st=1693666298~exp=1693666898~hmac=ffc45cdafc5645173fa056ce1750d27634cf9ab5edff0ccfef7d0cdebdc226e2)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
